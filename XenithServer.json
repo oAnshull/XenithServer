@@ -1,0 +1,118 @@
+{
+  "name": "Xenith",
+  "ip": "xenith.lol",
+  "whitelistUrl": "xenith.lol",
+  "port": 28846,
+  "id": "a42df593-7bfc-5a11-b972-5b10db46a80a",
+  "description": "Xenith.lol - The BEST vanilla PvP server for PvP practice, duels, wars, and FFAs.",
+  "news": {
+    "title": "Xenith Season 3",
+    "news": "A revamp of Xenith with updated maps, game modes, and optimization, giving players a better vanilla PvP experience."
+  },
+  "availableGames": [
+    {
+      "title": "Mace",
+      "subtitle": "Smash your opponents!",
+      "description": "Fight in parties, duels, or FFAs. Use your mace to smash your opponents and claim victory.",
+      "imageTag": "AvailableGameMace"
+    },
+    {
+      "title": "Bedfight",
+      "subtitle": "Destroy your opponent's bed!",
+      "description": "Attack your opponent's base, destroy their bed, then win the final fight.",
+      "imageTag": "AvailableGameBedfight"
+    },
+    {
+      "title": "Skywars",
+      "subtitle": "Loot chests and be the last player standing!",
+      "description": "Spawn in the sky, loot chests, gear up, and fight in 1v1s, practice matches, parties, FFAs, and wars.",
+      "imageTag": "AvailableGameSkywars"
+    },
+    {
+      "title": "Fireball Fight",
+      "subtitle": "Blast your way to victory!",
+      "description": "Use fireballs to reach your opponent's base, destroy their bed, and win the fight.",
+      "imageTag": "AvailableGameFireballFight"
+    },
+    {
+      "title": "Roulette",
+      "subtitle": "Gamble your best kit!",
+      "description": "Put your life on the line with randomized server kits. May the best player win the 1v1!",
+      "imageTag": "AvailableGameRoulette"
+    },
+    {
+      "title": "Glide",
+      "subtitle": "Glide over the finish line!",
+      "description": "Race in duels, parties, and wars. Take the lead and cross the finish line first!",
+      "imageTag": "AvailableGameGlide"
+    },
+    {
+      "title": "Boat Racing",
+      "subtitle": "Slide to victory!",
+      "description": "Row down slippery slopes and cross the finish line ahead of the other players!",
+      "imageTag": "AvailableGameBoatRacing"
+    }
+  ],
+  "images": [
+    {
+      "id": "accf7b2c-3e7d-5192-a473-3a60b2430677",
+      "tag": "Icon",
+      "type": "Icon",
+      "url": ""
+    },
+    {
+      "id": "bdcac28b-1b46-5fb8-b247-96fef4feb4de",
+      "tag": "Thumbnail",
+      "type": "Thumbnail",
+      "url": ""
+    },
+    {
+      "id": "1e2fe4dd-32db-56f7-b59c-f9d87d35a18c",
+      "tag": "Banner",
+      "type": "Screenshot",
+      "url": ""
+    },
+    {
+      "id": "e75e8dcb-abc4-5d4e-9146-f132531077b7",
+      "tag": "AvailableGameMace",
+      "type": "Screenshot",
+      "url": ""
+    },
+    {
+      "id": "298b62b6-3f36-51f8-8729-5b2100fcf0d9",
+      "tag": "AvailableGameBedfight",
+      "type": "Screenshot",
+      "url": ""
+    },
+    {
+      "id": "560f2dd6-0ef0-5a1a-859b-8d27f162758b",
+      "tag": "AvailableGameSkywars",
+      "type": "Screenshot",
+      "url": ""
+    },
+    {
+      "id": "e884977f-0c08-5920-9a51-b35e47b6cce4",
+      "tag": "AvailableGameFireballFight",
+      "type": "Screenshot",
+      "url": ""
+    },
+    {
+      "id": "59222267-e2f5-5024-a3a6-a0b1f03cbb51",
+      "tag": "AvailableGameRoulette",
+      "type": "Screenshot",
+      "url": ""
+    },
+    {
+      "id": "c92c66e5-988d-5083-adbd-35e89fafe982",
+      "tag": "AvailableGameGlide",
+      "type": "Screenshot",
+      "url": ""
+    },
+    {
+      "id": "822714a2-2bfc-572e-ba02-1bf40f755beb",
+      "tag": "AvailableGameBoatRacing",
+      "type": "Screenshot",
+      "url": ""
+    }
+  ]
+}
