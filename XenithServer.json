@@ -1,7 +1,7 @@
 {
   "name": "Xenith",
   "ip": "test.xenith.lol",
-  "whitelistUrl": "xenith.lol",
+  "whitelistUrl": "test.xenith.lol",
   "port": 54451,
   "id": "a42df593-7bfc-5a11-b972-5b10db46a80a",
   "description": "Xenith.lol - The BEST vanilla PvP server for PvP practice, duels, wars, and FFAs.",
@@ -55,58 +55,64 @@
   ],
   "images": [
     {
+      "id": "accf7b2c-3e7d-5192-a473-3a60b2430677",
+      "tag": "Icon",
+      "type": "Icon",
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/Thumbnail.png"
+    },
+    {
       "id": "bdcac28b-1b46-5fb8-b247-96fef4feb4de",
       "tag": "Thumbnail",
       "type": "Thumbnail",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/Thumbnail.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/Thumbnail.png"
     },
     {
       "id": "1e2fe4dd-32db-56f7-b59c-f9d87d35a18c",
       "tag": "Banner",
       "type": "Screenshot",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/Banner.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/Banner.png"
     },
     {
       "id": "e75e8dcb-abc4-5d4e-9146-f132531077b7",
       "tag": "AvailableGameMace",
       "type": "Screenshot",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/Mace.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/Mace.png"
     },
     {
       "id": "298b62b6-3f36-51f8-8729-5b2100fcf0d9",
       "tag": "AvailableGameBedfight",
       "type": "Screenshot",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/Bedfight.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/Bedfight.png"
     },
     {
       "id": "560f2dd6-0ef0-5a1a-859b-8d27f162758b",
       "tag": "AvailableGameSkywars",
       "type": "Screenshot",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/Skywars.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/Skywars.png"
     },
     {
       "id": "e884977f-0c08-5920-9a51-b35e47b6cce4",
       "tag": "AvailableGameFireballFight",
       "type": "Screenshot",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/FireballFight.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/FireballFight.png"
     },
     {
       "id": "59222267-e2f5-5024-a3a6-a0b1f03cbb51",
       "tag": "AvailableGameRoulette",
       "type": "Screenshot",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/Roulette.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/Roulette.png"
     },
     {
       "id": "c92c66e5-988d-5083-adbd-35e89fafe982",
       "tag": "AvailableGameGlide",
       "type": "Screenshot",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/Glide.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/Glide.png"
     },
     {
       "id": "822714a2-2bfc-572e-ba02-1bf40f755beb",
       "tag": "AvailableGameBoatRacing",
       "type": "Screenshot",
-      "url": "https://github.com/oAnshull/XenithServer/raw/main/BoatRacing.png"
+      "url": "https://raw.githubusercontent.com/oAnshull/XenithServer/main/BoatRacing.png"
     }
   ]
 }
