@@ -1,8 +1,8 @@
 {
   "name": "Xenith",
-  "ip": "xenith.lol",
+  "ip": "test.xenith.lol",
   "whitelistUrl": "xenith.lol",
-  "port": 28846,
+  "port": 54451,
   "id": "a42df593-7bfc-5a11-b972-5b10db46a80a",
   "description": "Xenith.lol - The BEST vanilla PvP server for PvP practice, duels, wars, and FFAs.",
   "news": {
